@@ -1,0 +1,2 @@
+
+How to Build Project to file exe: pyinstaller --onefile --windowed --icon=image.ico --add-data "image.ico;." --add-binary="chromedriver.exe;." main.py
