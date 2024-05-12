@@ -99,7 +99,24 @@
 <p>
     The "Create/Open Facebook in Google Chrome Profile Manager" project provides a convenient solution for managing Chrome profiles and accessing Facebook through those profiles. With its intuitive interface and essential features, it offers a streamlined experience for users who require multiple Chrome profiles for various purposes.
 </p>
+<!-- Download Section -->
+<div class="section">
+    <h2>Download</h2>
+    <p>Download the project in below:</p>
+    <p><a href="https://drive.novhun.de/index.php/f/681" download><i class="fas fa-download"></i> Download App Version 1.0</a></p>
+</div>
 
+<div class="section">
+    <h2>App Version History</h2>
+    <ul>
+        <li><strong>Version 1.0:</strong> Initial release</li>
+<!--         <li><strong>Version 1.1:</strong> Added feature X</li>
+        <li><strong>Version 1.2:</strong> Fixed bug Y</li>
+         Add more version details as needed  -->
+    </ul>
+</div>
+
+<hr>
 <footer>
     <p>&copy; 2024 Developed by Mr.HUN | All rights reserved.</p>
 </footer>
