@@ -103,7 +103,7 @@
 <div class="section">
     <h2>Download</h2>
     <p>Download the project in below:</p>
-    <p><a href="https://drive.novhun.de/index.php/f/681" download><i class="fas fa-download"></i> Download App Version 1.0</a></p>
+    <p><a href="https://drive.google.com/file/d/1cyUYKMBBOrCbZ4gAHZhvl1uJULkX3qij/view?usp=sharing" download><i class="fas fa-download"></i> Download App Version 1.0</a></p>
 </div>
 
 <div class="section">
