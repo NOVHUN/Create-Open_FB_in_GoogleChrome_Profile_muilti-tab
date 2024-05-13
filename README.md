@@ -18,10 +18,12 @@
     <li><strong>Responsive Layout:</strong> Utilizes grid configuration to ensure the GUI layout adapts to different screen sizes.</li>
     <li><strong>Copyright Notice:</strong> Includes a footer with copyright information.</li>
 </ul>
-<h1>App FULL SCREEN MODE</h1>
+<h2>App Full Screen Mode</h2>
     <img src="https://github.com/NOVHUN/Create-Open_FB_in_GoogleChrome_Profile_muilti-tab/blob/main/ScreenShort/Screenshot%202024-05-13%20120335.png" alt="Descriptive text about the image">
-<h1>App SMALL SCREEN MODE</h1>
+<h2>App Small Screen Mode</h2>
     <img src="https://github.com/NOVHUN/Create-Open_FB_in_GoogleChrome_Profile_muilti-tab/blob/main/ScreenShort/Screenshot%202024-05-13%20120251.png" alt="Descriptive text about the image">
+<h2>Whatch Video here</h2>
+   <p> <a href="https://drive.google.com/file/d/1L2GluN52SHNxjbWaW4xtjykxd6JibslG/preview">Link:</a></p>
 <h2>Requirements</h2>
 <ul>
     <li>Python 3.x</li>
